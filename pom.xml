@@ -11,6 +11,7 @@
 
     <modules>
         <module>user</module>
+        <module>movie</module>
     </modules>
 
     <properties>
